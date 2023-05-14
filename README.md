@@ -16,4 +16,5 @@ pip install -r requirements.txt
 ```
 
 written by Yoonhyung Kim @ ETRI
+
 SyncNet checkpoint and codes are from https://github.com/joonson/syncnet_python
